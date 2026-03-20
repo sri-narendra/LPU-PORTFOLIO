@@ -1,0 +1,16 @@
+[
+    {
+        "title": "GravityOrg – club Portfolio Website",
+        "description": "Developed a responsive and visually engaging club portfolio website to showcase events, achievements, and organizational culture. Designed a clean, modern UI with structured navigation to ensure an intuitive user experience across devices.",
+        "tech": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://gravityorg.xyz/",
+        "icon": "fas fa-users"
+    },
+    {
+        "title": "Digital Student Care Network",
+        "description": "Developed a student support chatbot using Flask and Google Gemini AI to provide empathetic, real-time responses to academic and emotional queries. Integrated secure API endpoints for chat interactions with proper JSON validation and error handling.",
+        "tech": ["Python", "Flask", "Google Gemini AI", "JavaScript", "HTML5", "CORS"],
+        "link": "https://sri-narendra.github.io/Digital-Student-Care-Network/",
+        "icon": "fas fa-network-wired"
+    }
+]

@@ -1,0 +1,79 @@
+{
+    "hero": {
+        "name": "Sri Narendra Pasupuleti",
+        "title": "Full Stack Developer",
+        "description": "",
+        "image": "pic.png",
+        "social": {
+            "linkedin": "https://linkedin.com/in/sri-narendra-p-2b75291bb",
+            "github": "https://github.com/sri-narendra",
+            "email": "mailto:srinarendraofficial@gmail.com"
+        }
+    },
+    "about": {
+        "objective": "To secure a challenging position where I can effectively contribute my skills as a computer science professional possessing competent technical skills and a creative mindset, with opportunities for growth and impact.",
+        "education": [
+            {
+                "degree": "Bachelor of Technology - Computer Science and Engineering",
+                "school": "Lovely Professional University, Phagwara, Punjab",
+                "details": "CGPA: 7.7 | Aug 2021 - Present"
+            },
+            {
+                "degree": "Intermediate",
+                "school": "Narayana Junior College, Rajamundry, Andrapradesh",
+                "details": "Percentage: 68% | May 2021 - April 2023"
+            },
+            {
+                "degree": "Matriculation",
+                "school": "Sri Gowthami School, Rajamundry, Andrapradesh",
+                "details": "Percentage: 100% | May 2020 - April 2021"
+            }
+        ],
+        "softSkills": [
+            "Leadership",
+            "Project Management",
+            "Problem Solving",
+            "Team Management",
+            "Adaptability"
+        ],
+        "certifications": [
+            "Chatbot Development – CognitiveClass",
+            "Blockchain Basics – CognitiveClass",
+            "Hackerrank Python Basic Certificate",
+            "Boord Full Stack Course Basic",
+            "FreeCodeCamp – Responsive Web Design",
+            "Neocolab certificates on C, C++, Java and DSA"
+        ],
+        "languages": [
+            "English",
+            "Telugu",
+            "Hindi"
+        ]
+    },
+    "detailedSkills": [
+        {
+            "title": "Programming",
+            "overview": "Experienced in building robust applications across various languages.",
+            "tools": ["Java", "Python", "C++", "C", "PHP"]
+        },
+        {
+            "title": "Web Development",
+            "overview": "Proficient in developing responsive and interactive front-end designs.",
+            "tools": ["HTML", "CSS", "Tailwind", "JavaScript", "React"]
+        },
+        {
+            "title": "Core CS & Tools",
+            "overview": "Strong foundation in Computer Science principles and modern development tools.",
+            "tools": ["OOP", "DSA", "OS", "DBMS", "Git", "GitHub"]
+        }
+    ],
+    "experience": [],
+    "contact": {
+        "email": "srinarendraofficial@gmail.com",
+        "phone": "+91 8520988939",
+        "whatsapp": "https://wa.me/918520988939",
+        "linkedin": "https://linkedin.com/in/sri-narendra-p-2b75291bb",
+        "github": "https://github.com/sri-narendra",
+        "location": "Rajamundry, Andrapradesh"
+    }
+}

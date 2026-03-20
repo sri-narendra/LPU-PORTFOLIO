@@ -1,0 +1,40 @@
+﻿
+
+Veera Venkata Satya 
+Sri Narendra Pasupuleti
+LinkedIn:   HYPERLINK "https://linkedin.com/in/sri-narendra-p-2b75291bb" https://linkedin.com/in/sri-narendra-p-2b75291bb                                       Email: srinarendraofficial@gmail.com             Github:     https://github.com/sri-narendra                                                                    Mobile: +91 8520988939
+SKILLS
+Programming:                  Java, Python, C++, C, PHP
+Web  Development:         HTML, CSS, Tailwind, JavaScript, React
+Core CS Subjects:           OOP, DSA, OS, DBMS, Computer Networks, Software Engineering, Automata
+Tools:                                Git, GitHub, MS Office, Photoshop, Canva, Capcut, Kinemaster
+Soft Skills:                        Leadership, Project Management, Problem Solving, Team Management, Adaptability
+PROJECTS   
+GravityOrg – club Portfolio Website |  HYPERLINK "https://gravityorg.xyz/" 🔗                                                                                                        July 2025 - August 2025
+ Developed a responsive and visually engaging club portfolio website to showcase events, achievements, and organizational culture.
+Designed a clean, modern UI with structured navigation to ensure an intuitive user experience across devices.
+Implemented dynamic sections to highlight club activities, member engagement, and onboarding information for new students.
+Tech Stack: HTML5, CSS3, JavaScript
+Digital Student Care Network | 🔗                                                                                               July 2025 - August 2025
+Developed a student support chatbot using Flask and Google Gemini AI to provide empathetic, real-time responses to academic and emotional queries.
+Integrated secure API endpoints for chat interactions with proper JSON validation and error handling, enabling seamless communication between frontend and AI backend.
+Implemented safety-focused settings to handle sensitive topics responsibly, including automatic guidance for crisis situations and referral to counsellors.
+Served static frontend files with CORS support, ensuring cross-origin accessibility for web clients.
+Tech Stack: Python, Flask, Google Gemini AI, JavaScript, HTML5, CORS
+
+CERTIFICATIONS
+Data Structures &amp; Algorithms | LPU + iamneo | 🔗                                                                       Aug 2024 - Dec 2024
+Object Oriented Programming | LPU + iamneo | 🔗                                                                      Aug 2024 - Dec 2024
+Java Programming | LPU + iamneo  | 🔗                                                                                       Jan 2025 - May 2025
+Programming Using C++ | Infosys | 🔗                                                                                                            Sep 2025
+Python (Basic) Skill Certification | HackerRank | 🔗                                                                                         Mar 2023 
+Computer Communications Specialization | Coursera | 🔗                                                                              Dec 2024
+Responsive Web Design Developer Certification | FreeCodeCamp.org  | 🔗                                                  Nov 2023
+Full Stack Development (Microlearning) | BOARD INFINITY | 🔗                                                                    Jan 2024
+
+EDUCATION
+Lovely Professional University                                                                                                             Phagwara, Punjab         Bachelor of Technology - Computer Science and Engineering; CGPA: 7.7                                     2023 Aug’ 21 - Present 
+Narayana Junior College                                                                                                         Rajamundry, Andrapradesh 
+Intermediate; Percentage: 68%                                                                                                         May 2021 - April 2023
+Sri Gowthami School                                                                                                               Rajamundry, Andrapradesh
+Matriculation; Percentage: 100%                                                                                                      May 2020 - April 2021
