@@ -1,6 +1,6 @@
 [
     {
-        "title": "GravityOrg – club Portfolio Website",
+        "title": "GravityOrg – Club Portfolio Website",
         "description": "Developed a responsive and visually engaging club portfolio website to showcase events, achievements, and organizational culture. Designed a clean, modern UI with structured navigation to ensure an intuitive user experience across devices.",
         "tech": ["HTML5", "CSS3", "JavaScript"],
         "link": "https://gravityorg.xyz/",
@@ -12,5 +12,47 @@
         "tech": ["Python", "Flask", "Google Gemini AI", "JavaScript", "HTML5", "CORS"],
         "link": "https://sri-narendra.github.io/Digital-Student-Care-Network/",
         "icon": "fas fa-network-wired"
+    },
+    {
+        "title": "Expense Tracker",
+        "description": "Built a web-based expense tracking application to manage daily spending with a simple and intuitive UI. Implemented features for adding, deleting, and categorizing expenses with real-time updates.",
+        "tech": ["HTML5", "CSS3", "JavaScript","Nodejs"],
+        "link": "https://sri-narendra.github.io/ExpenseTracker/",
+        "icon": "fas fa-wallet"
+    },
+    {
+        "title": "QR Code Generator",
+        "description": "Developed a QR code generator that allows users to quickly convert text or URLs into scannable QR codes. Focused on speed, simplicity, and responsive design.",
+        "tech": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://sri-narendra.github.io/qr-code/",
+        "icon": "fas fa-qrcode"
+    },
+    {
+        "title": "Habit Tracker",
+        "description": "Created a habit tracking application to help users build and maintain daily routines. Included features like progress tracking and simple visual indicators for consistency.",
+        "tech": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://sri-narendra.github.io/HabitTracker/",
+        "icon": "fas fa-check-circle"
+    },
+    {
+        "title": "Online Examination System",
+        "description": "Built an online examination platform with structured question flow and result evaluation. Designed to simulate real exam environments with user-friendly navigation.",
+        "tech": ["HTML5", "CSS3", "JavaScript"],
+        "link": "https://sri-narendra.github.io/OnlineExaminationSystem/",
+        "icon": "fas fa-file-alt"
+    },
+    {
+        "title": "TV Channels Streaming UI",
+        "description": "Developed a frontend interface for browsing and streaming TV channels. Focused on layout design, content organization, and smooth user experience.",
+        "tech": ["HTML5", "CSS3", "JavaScript","Api Integration"],
+        "link": "https://sri-narendra.github.io/TvChannels/",
+        "icon": "fas fa-tv"
+    },
+    {
+        "title": "E-commerce Website",
+        "description": "Created a basic e-commerce frontend with product listings, navigation, and UI components. Emphasized clean design and usability for online shopping experiences.",
+        "tech": ["HTML5", "CSS3", "Python","Flask"],
+        "link": "https://sri-narendra.github.io/ecommers/",
+        "icon": "fas fa-shopping-cart"
     }
 ]
